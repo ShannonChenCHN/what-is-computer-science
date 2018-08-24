@@ -1,2 +1,44 @@
 # what-is-computer-science
 As a self-taught programmer, what inside the black box is always mysterious to me. That's why I start this project. 
+
+### 目录
+- 计算机科学概论
+  - [《计算机科学概论》](https://github.com/ShannonChenCHN/what-is-computer-science/issues/1)
+- 数字电路
+  - 视频教程
+- 计算机组成原理
+  - 《穿越计算机的迷雾》
+  - 《编码》
+  - 《深入理解计算机系统》（附课程视频）
+- 汇编语言
+  - 《汇编语言》（王爽著）
+- 操作系统*
+  - 《现代操作系统》
+  - 《UNIX环境高级编程》
+- 编译原理
+  - 《编译原理》
+- 离散数学
+  - 《离散数学及其应用》
+- 数据结构和算法*
+  - 《数据结构与算法分析》
+  - 《算法(英文版•第4版)》
+  - 算法导论（原书第3版）
+- 计算机网络*
+  - 《图解 HTTP》
+  - 《网络是怎样连接的》
+  - 《计算机网络：自顶向下方法》
+  - 《TCP/IP 详解》
+- 数据库
+- 程序设计、设计模式
+- 编程语言
+  - C/C++
+  - Java
+- 细分领域
+  - 音视频
+  - 图片
+  - 文字排版
+  - 前端
+  - 移动端
+  - 后端
+  - 大数据
+  - 机器学习
