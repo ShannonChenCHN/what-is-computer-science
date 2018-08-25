@@ -1,7 +1,7 @@
 # what-is-computer-science
 As a self-taught programmer, what inside the black box is always mysterious to me. That's why I start this project. 
 
-### 目录
+## 目录
 - 计算机科学概论
   - [《计算机科学概论》](https://github.com/ShannonChenCHN/what-is-computer-science/issues/1)
 - 数字电路
@@ -78,7 +78,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   - 安全
   
   
-### 参考资料
+## 参考资料
 - [计算机专业学生一定要学好这几门课! - 知乎](https://zhuanlan.zhihu.com/p/36036331)
 - [计算机专业的学生怎样练习编程才能把编程学精通啊？ - 知乎](https://www.zhihu.com/question/263445600)
 - [如何自学计算机专业课程？ - 知乎](https://zhuanlan.zhihu.com/p/26804195)
