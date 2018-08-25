@@ -32,7 +32,11 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 - 数据库
 - 程序设计、设计模式
 - 编程语言
-  - C/C++
+  - C
+    - 《C 程序设计语言》
+  - C++
+    - 《C++ Primer》
+    - 《C++ 编程思想》
   - Objective-C
   - Java
   - Python
@@ -48,3 +52,12 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   - 后端
   - 大数据
   - 机器学习
+  
+  
+### 参考资料
+- [计算机专业学生一定要学好这几门课! - 知乎](https://zhuanlan.zhihu.com/p/36036331)
+- [计算机专业的学生怎样练习编程才能把编程学精通啊？ - 知乎](https://www.zhihu.com/question/263445600)
+- [如何自学计算机专业课程？ - 知乎](https://zhuanlan.zhihu.com/p/26804195)
+- [左耳朵耗子的专栏 - 极客时间](https://time.geekbang.org/column/intro/48?code=VznxDnLQDX-vI3YOLFe1sRcB9fN-BYi8QhSJmMATsys%3D)
+- [故胤道长：去美国读名校，在硅谷写代码](http://m.quzhiboapp.com/?#!/intro/108?liveId=295%20%EF%BD%9E)
+- 《软技能：代码之外的生存指南》
