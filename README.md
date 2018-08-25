@@ -40,6 +40,8 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   - Objective-C
   - Java
   - Python
+    - 《Python编程：从入门到实践》
+    - 《Python编程快速上手》
   - JavaScript
   - Ruby
   - Swift
