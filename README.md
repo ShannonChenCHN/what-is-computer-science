@@ -9,20 +9,22 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 - **计算机组成原理**
   - 《穿越计算机的迷雾》
   - 《编码》
-  - 《深入理解计算机系统》（附课程视频）
+  - 《深入理解计算机系统》（必读，有配套的课程视频）
 - 汇编语言
   - 《汇编语言》（王爽著）
 - **操作系统**
   - 《现代操作系统》
-  - 《UNIX环境高级编程》
+  - 《UNIX 环境高级编程》
 - 编译原理
   - 《编译原理》
+  - 《程序员的自我修养 : 链接、装载与库》
 - 离散数学
   - 《离散数学及其应用》
 - **[数据结构和算法](https://github.com/ShannonChenCHN/algorithm-and-data-structure)**
-  - 《数据结构与算法分析》
-  - 《算法(英文版•第4版)》
-  - 算法导论（原书第3版）
+  - 《数据结构与算法分析》（基础）
+  - 《算法》（基础）
+  - 《算法导论》（理论）
+  - 《编程珠玑》（思维）
 - **计算机网络**
   - 《图解 HTTP》
   - 《图解 TCP/IP》
@@ -30,18 +32,37 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   - 《计算机网络：自顶向下方法》
   - 《TCP/IP 详解》
 - 数据库
-- 程序设计、设计模式
+- 程序设计、编程思想
+  - 设计模式
+    - 《Head First 设计模式》（Java 语言）
+    - 《设计模式》
+  - 编程范式
+    - 《七周七语言：理解多种编程范型》
+    - [斯坦福大学公开课：编程范式](http://open.163.com/special/opencourse/paradigms.html)
+  - 编码修养
+    - 《代码大全》
+    - 《重构：改善既有代码的设计》
+    - 《修改代码的艺术》
+    - 《代码整洁之道》
+    - 《程序员的职业素养》
+    - 《编写可读代码的艺术》
+  - 程序设计思想
+    - 《计算机程序的构造和解释》
+    - 《UNIX 编程艺术》
+    - 《松本行弘的程序世界》
+    - 《计算的本质：深入剖析程序和计算机》
 - 编程语言
   - C
     - 《C 程序设计语言》
+    - 《C 语言程序设计现代方法》
   - C++
     - 《C++ Primer》
     - 《C++ 编程思想》
   - Objective-C
   - Java
   - [Python](https://github.com/ShannonChenCHN/APythonTour)
-    - 《Python编程：从入门到实践》
-    - 《Python编程快速上手》
+    - 《Python 编程：从入门到实践》
+    - 《Python 编程快速上手》
   - [JavaScript](https://github.com/ShannonChenCHN/AFrontEndWebDevTour/blob/master/learning-notes/JavaScript-learning-notes.md)
   - Ruby
   - Swift
@@ -54,6 +75,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   - 后端
   - 大数据
   - 机器学习
+  - 安全
   
   
 ### 参考资料
