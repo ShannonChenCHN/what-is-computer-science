@@ -39,17 +39,17 @@ As a self-taught programmer, what inside the black box is always mysterious to m
     - 《C++ 编程思想》
   - Objective-C
   - Java
-  - Python
+  - [Python](https://github.com/ShannonChenCHN/APythonTour)
     - 《Python编程：从入门到实践》
     - 《Python编程快速上手》
-  - JavaScript
+  - [JavaScript](https://github.com/ShannonChenCHN/AFrontEndWebDevTour/blob/master/learning-notes/JavaScript-learning-notes.md)
   - Ruby
   - Swift
 - 细分领域
   - 音视频
   - 图片
   - 文字排版
-  - 前端
+  - [前端](https://github.com/ShannonChenCHN/AFrontEndWebDevTour)
   - 移动端（iOS、Android）
   - 后端
   - 大数据
