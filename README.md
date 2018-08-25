@@ -19,7 +19,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   - 《编译原理》
 - 离散数学
   - 《离散数学及其应用》
-- **数据结构和算法**
+- **[数据结构和算法](https://github.com/ShannonChenCHN/algorithm-and-data-structure)**
   - 《数据结构与算法分析》
   - 《算法(英文版•第4版)》
   - 算法导论（原书第3版）
@@ -44,7 +44,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   - 图片
   - 文字排版
   - 前端
-  - 移动端
+  - 移动端（iOS、Android）
   - 后端
   - 大数据
   - 机器学习
