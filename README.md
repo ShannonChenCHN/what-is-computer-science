@@ -58,7 +58,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   - C++
     - 《C++ Primer》
     - 《C++ 编程思想》
-  - Objective-C
+  - [Objective-C](https://github.com/ShannonChenCHN/iOSLevelingUp/issues/39)
   - Java
   - [Python](https://github.com/ShannonChenCHN/APythonTour)
     - 《Python 编程：从入门到实践》
@@ -71,7 +71,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   - 图片
   - 文字排版
   - [前端](https://github.com/ShannonChenCHN/AFrontEndWebDevTour)
-  - 移动端（iOS、Android）
+  - 移动端（[iOS](https://github.com/ShannonChenCHN/iOSLevelingUp)、Android）
   - 后端
   - 大数据
   - 机器学习
