@@ -79,9 +79,13 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   
   
 ## 参考资料
+- [自学编程和计算机科班出身的差别在哪？ - David Zhang的回答 - 知乎](https://www.zhihu.com/question/67948916/answer/259965694)
+- [大学理科生零基础自学计算机和编程有哪些书籍和方法比较好？ - SkyDragon的回答 - 知乎](https://www.zhihu.com/question/39512272/answer/81785112])
 - [计算机专业学生一定要学好这几门课! - 知乎](https://zhuanlan.zhihu.com/p/36036331)
 - [计算机专业的学生怎样练习编程才能把编程学精通啊？ - 知乎](https://www.zhihu.com/question/263445600)
 - [如何自学计算机专业课程？ - 知乎](https://zhuanlan.zhihu.com/p/26804195)
-- [左耳朵耗子的专栏 - 极客时间](https://time.geekbang.org/column/intro/48?code=VznxDnLQDX-vI3YOLFe1sRcB9fN-BYi8QhSJmMATsys%3D)
+- [左耳朵耗子的专栏 - 极客时间](https://time.geekbang.org/column/intro/48?code=VznxDnLQDX-vI3YOLFe1sRcB9fN-BYi8QhSJmMATsys%3D)（推荐）
 - [故胤道长：去美国读名校，在硅谷写代码](http://m.quzhiboapp.com/?#!/intro/108?liveId=295%20%EF%BD%9E)
-- 《软技能：代码之外的生存指南》
+- [《软技能：代码之外的生存指南》](https://book.douban.com/subject/26835090/)
+- [《Learn More Study Less》](https://book.douban.com/subject/11603298/)
+
