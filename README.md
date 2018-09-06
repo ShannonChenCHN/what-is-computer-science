@@ -9,7 +9,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 - **计算机组成原理**
   - 《计算机是怎样跑起来的》
   - 《穿越计算机的迷雾》
-  - 《编码》⭐️⭐️⭐️⭐️⭐️
+  - 《编码：隐匿在计算机软硬件背后的语言》⭐️⭐️⭐️⭐️⭐️
   - 《深入理解计算机系统》（必读，有配套的课程视频）⭐️⭐️⭐️⭐️⭐️
 - 汇编语言
   - 《汇编语言》（王爽著）
