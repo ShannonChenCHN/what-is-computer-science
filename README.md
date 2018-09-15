@@ -90,4 +90,4 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 - [《软技能：代码之外的生存指南》](https://book.douban.com/subject/26835090/)
 - [《Learn More Study Less》](https://book.douban.com/subject/11603298/)
 - 《学习之道》
-
+- 《如何阅读一本书》
