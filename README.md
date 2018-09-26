@@ -3,18 +3,20 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 
 ## 目录
 - 计算机科学概论
-  - [《计算机科学概论》](https://github.com/ShannonChenCHN/what-is-computer-science/issues/1)
+  - [《计算机科学概论》](https://github.com/ShannonChenCHN/what-is-computer-science/issues/1)⭐️⭐️⭐️⭐️⭐️
+  - 《深入理解计算机系统》（必读，有配套的课程视频）⭐️⭐️⭐️⭐️⭐️
 - 数字电路
   - 视频教程
 - **计算机组成原理**
   - 《计算机是怎样跑起来的》
   - 《穿越计算机的迷雾》
   - 《编码：隐匿在计算机软硬件背后的语言》⭐️⭐️⭐️⭐️⭐️
-  - 《深入理解计算机系统》（必读，有配套的课程视频）⭐️⭐️⭐️⭐️⭐️
 - 汇编语言
   - 《汇编语言》（王爽著）
 - **操作系统**
-  - 《现代操作系统》
+  - 《[The Linux Command Line](http://linuxcommand.org/tlcl.php)》（[中译本](http://billie66.github.io/TLCL/book/index.html)）
+  - 《Unix & Linux大学教程》
+  - 《现代操作系统》⭐️⭐️⭐️⭐️⭐️
   - 《UNIX 环境高级编程》
 - 编译原理
   - 《编译原理》
@@ -22,17 +24,18 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 - 离散数学
   - 《离散数学及其应用》
 - **[数据结构和算法](https://github.com/ShannonChenCHN/algorithm-and-data-structure)**
-  - 《数据结构与算法分析》（基础）
+  - 《数据结构与算法分析》（基础）⭐️⭐️⭐️⭐️⭐️
   - 《算法》（基础）
   - 《算法导论》（理论）
   - 《编程珠玑》（思维）
 - **计算机网络**
   - 《图解 HTTP》
-  - 《图解 TCP/IP》
+  - 《图解 TCP/IP》⭐️⭐️⭐️⭐️⭐️
   - 《网络是怎样连接的》
-  - 《计算机网络：自顶向下方法》
+  - 《计算机网络：自顶向下方法》⭐️⭐️⭐️⭐️⭐️
   - 《TCP/IP 详解》
 - 数据库
+  - 《数据库系统概念》
 - 程序设计、编程思想
   - 设计模式
     - 《Head First 设计模式》（Java 语言）
@@ -41,14 +44,14 @@ As a self-taught programmer, what inside the black box is always mysterious to m
     - 《七周七语言：理解多种编程范型》
     - [斯坦福大学公开课：编程范式](http://open.163.com/special/opencourse/paradigms.html)
   - 编码修养
-    - 《代码大全》
+    - 《代码大全》⭐️⭐️⭐️⭐️⭐️
     - 《重构：改善既有代码的设计》
     - 《修改代码的艺术》
     - 《代码整洁之道》
     - 《程序员的职业素养》
     - 《编写可读代码的艺术》
   - 程序设计思想
-    - 《计算机程序的构造和解释》
+    - 《计算机程序的构造和解释》⭐️⭐️⭐️⭐️⭐️
     - 《UNIX 编程艺术》
     - 《松本行弘的程序世界》
     - 《计算的本质：深入剖析程序和计算机》
