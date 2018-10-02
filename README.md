@@ -3,18 +3,18 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 
 ## 目录
 - 计算机科学概论
-  - [《计算机科学概论》](https://github.com/ShannonChenCHN/what-is-computer-science/issues/1)⭐️⭐️⭐️⭐️⭐️
+  - [读《计算机科学概论》](https://github.com/ShannonChenCHN/what-is-computer-science/issues/1)⭐️⭐️⭐️⭐️⭐️
   - 《深入理解计算机系统》（必读，有配套的课程视频）⭐️⭐️⭐️⭐️⭐️
 - 数字电路
   - 视频教程
 - **计算机组成原理**
   - 《计算机是怎样跑起来的》
   - 《穿越计算机的迷雾》
-  - 《编码：隐匿在计算机软硬件背后的语言》⭐️⭐️⭐️⭐️⭐️
+  - [读《编码：隐匿在计算机软硬件背后的语言》](https://github.com/ShannonChenCHN/what-is-computer-science/issues/4)⭐️⭐️⭐️⭐️⭐️
 - 汇编语言
   - 《汇编语言》（王爽著）
 - **操作系统**
-  - 《[The Linux Command Line](http://linuxcommand.org/tlcl.php)》（[中译本](http://billie66.github.io/TLCL/book/index.html)）
+  - [读《The Linux Command Line》](https://github.com/ShannonChenCHN/what-is-computer-science/issues/3)
   - 《Unix & Linux大学教程》
   - 《现代操作系统》⭐️⭐️⭐️⭐️⭐️
   - 《UNIX 环境高级编程》
