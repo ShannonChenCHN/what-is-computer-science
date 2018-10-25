@@ -10,7 +10,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 - **计算机组成原理**
   - 《计算机是怎样跑起来的》
   - 《穿越计算机的迷雾》
-  - [读《编码：隐匿在计算机软硬件背后的语言》](https://github.com/ShannonChenCHN/what-is-computer-science/issues/4)⭐️⭐️⭐️⭐️⭐️
+  - [读《编码：隐匿在计算机软硬件背后的语言》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80%E3%80%8B.md)⭐️⭐️⭐️⭐️⭐️
 - 汇编语言
   - 《汇编语言》（王爽著）
 - **操作系统**
