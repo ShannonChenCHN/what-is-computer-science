@@ -4,7 +4,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 ## 目录
 - 计算机科学概论
   - [读《计算机科学概论》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B.md)⭐️⭐️⭐️⭐️⭐️
-  - 《深入理解计算机系统》（必读，有配套的课程视频）⭐️⭐️⭐️⭐️⭐️
+  - [读《深入理解计算机系统》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E3%80%8B_01.md)（必读，有配套的课程视频）⭐️⭐️⭐️⭐️⭐️
 - 数字电路
   - 视频教程
 - **计算机组成原理**
