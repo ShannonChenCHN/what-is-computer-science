@@ -118,7 +118,7 @@ void test_bit_extension() {
 
 int main(int argc, const char * argv[]) {
     
-
+    
     std::cout << "Hello, World!\n";
     
     test_show_bytes(12345);
