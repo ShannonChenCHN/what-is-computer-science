@@ -3,14 +3,14 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 
 ## 目录
 - 计算机科学概论
-  - [读《计算机科学概论》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B.md)（必读，了解计算机科学的全貌）⭐️⭐️⭐️⭐️⭐️
-  - [读《深入理解计算机系统》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E3%80%8B_01.md)（必读，从程序员的角度理解程序是怎么运行的，有配套的课程视频）⭐️⭐️⭐️⭐️⭐️
+  - [读《计算机科学概论》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B.md)（必读，了解计算机科学的全貌，适合初学者）⭐️⭐️⭐️⭐️⭐️
+  - [读《深入理解计算机系统》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E3%80%8B_01.md)（必读，从程序员的角度理解程序是怎么运行的，有配套的课程视频，有一定的深度，适合进阶的初学者）⭐️⭐️⭐️⭐️⭐️
 - 数字电路
   - 视频教程
 - **计算机组成原理**
-  - 《计算机是怎样跑起来的》
+  - 《计算机是怎样跑起来的》（适合初学者）
   - 《穿越计算机的迷雾》
-  - [读《编码：隐匿在计算机软硬件背后的语言》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80%E3%80%8B.md)（必读，用通俗易懂的方式一步一步告诉你计算机是怎么做出来的）⭐️⭐️⭐️⭐️⭐️
+  - [读《编码：隐匿在计算机软硬件背后的语言》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80%E3%80%8B.md)（必读，用通俗易懂的方式一步一步告诉你计算机是怎么做出来的，适合初学者）⭐️⭐️⭐️⭐️⭐️
 - 汇编语言
   - 《汇编语言》（王爽著）
 - **操作系统**
