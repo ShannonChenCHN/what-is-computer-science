@@ -12,7 +12,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   - 《穿越计算机的迷雾》（适合初学者）
   - [读《编码：隐匿在计算机软硬件背后的语言》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80%E3%80%8B.md)（必读，用通俗易懂的方式一步一步告诉你计算机是怎么做出来的，适合初学者）⭐️⭐️⭐️⭐️⭐️
   - 下面这几本书都具备一定的专业性，而且与其他领域相关联，建议先阅读 CS:APP
-    - 《计算机组成与设计：硬件/软件接口》
+    - 《计算机组成与设计：硬件/软件接口》（做应用开发的看这本就够了）
     - 《计算机体系结构：量化研究方法》
     - 《计算机组成：结构化方法》
 - 汇编语言
@@ -22,11 +22,11 @@ As a self-taught programmer, what inside the black box is always mysterious to m
   - 《Unix & Linux大学教程》
   - 《现代操作系统》⭐️⭐️⭐️⭐️⭐️
   - 《UNIX 环境高级编程》
-- 编译、链接
+- 编译、链接（自己动手写一个编译器/解释器）
   - 《编译原理》（龙书）
-  - 《现代编译原理——C 语言实现》（虎书，以例子贯穿）
-  - 《高级编译器设计与实现》（鲸书，主要讲后端的）
-  - 《编译器设计》（基本概念讲的比较清楚，比龙书容易理解）
+  - 《现代编译原理——C 语言实现》（虎书，以例子贯穿前后端）
+  - 《高级编译器设计与实现》（鲸书，主要讲后端的，轮子哥推荐）
+  - 《编译器设计》（基本概念讲的比较清楚，比龙书容易理解，适合初学者）
   - 《Parsing Techniques》（轮子哥推荐，主要讲前端）
   - 《程序员的自我修养 : 链接、装载与库》⭐️⭐️⭐️⭐️⭐️
 - 离散数学
