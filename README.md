@@ -18,7 +18,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 - 汇编语言
   - 《汇编语言》（王爽著）
 - **操作系统**
-  - [读《The Linux Command Line》](https://github.com/ShannonChenCHN/what-is-computer-science/issues/3)
+  - [读《The Linux Command Line》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/The-Linux-Command-Line.md)
   - 《Unix & Linux大学教程》
   - 《现代操作系统》⭐️⭐️⭐️⭐️⭐️
   - 《UNIX 环境高级编程》
