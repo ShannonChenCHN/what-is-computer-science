@@ -1,5 +1,8 @@
 # The Linux Command Line
 
+> 原版：[《The Linux Command Line》](http://linuxcommand.org/tlcl.php)
+> 中译版： 《Linux 命令行大全》
+
 ## 目录
 - 第一部分 学习 shell
   - 第 1 章 shell 是什么
@@ -47,6 +50,13 @@
   - df：磁盘当前可用空间
   - free（macOS 上不支持）：内存可用空间
   - exit：结束终端会话
+
+
+**延伸阅读**
+
+- [Shell - Wikipedia](https://en.wikipedia.org/wiki/Shell_(computing))
+- [Z shell - Wikipedia](https://en.wikipedia.org/wiki/Z_shell)
+- [Bash - Wikipedia](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
 ### 第 2 章 文件系统导航
 
