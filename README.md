@@ -8,7 +8,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 - 数字电路
   - 视频教程
 - **计算机组成原理和计算机体系结构**
-  - 《计算机是怎样跑起来的》（适合初学者）
+  - [x] 《计算机是怎样跑起来的》（适合初学者）
   - 《穿越计算机的迷雾》（适合初学者）
   - [x] [读《编码：隐匿在计算机软硬件背后的语言》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80%E3%80%8B.md)（必读，用通俗易懂的方式一步一步告诉你计算机是怎么做出来的，适合初学者）⭐️⭐️⭐️⭐️⭐️
   - 下面这几本书都具备一定的专业性，而且与其他领域相关联，建议先阅读 CS:APP
