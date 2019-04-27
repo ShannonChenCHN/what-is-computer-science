@@ -1,7 +1,11 @@
-# The Linux Command Line
+# The Linux Command Line 学习笔记
 
 > 原版：[《The Linux Command Line》](http://linuxcommand.org/tlcl.php)
 > 中译版： 《Linux 命令行大全》
+
+## 其他总结
+- [Linux Shell 相关知识点](https://github.com/ShannonChenCHN/iOSLevelingUp/issues/2#issuecomment-338358993)
+- [Shell 脚本学习总结](https://github.com/ShannonChenCHN/iOSDevLevelingUp/tree/master/iOSTutorials/BashExample)
 
 ## 目录
 - 第一部分 学习 shell
@@ -489,23 +493,122 @@
 
 #### 第 15 章 存储介质
 
+- 挂载、卸载存储设备
+- 创建新的文件系统
+  - fdisk 命令
+  - mkfs 命令
+- 测试、修复文件系统
+- 直接从/向设备转移数据
 
 #### 第 16 章 网络
 
+- 主要命令
+  - ping
+  - traceroute
+  - netstat
+  - ftp
+  - lftp
+  - wget
+  - ssh
+  - scp
+  - sftp
+- 相关术语
+  - IP 地址
+  - 主机名和域名
+  - URI
+
+
+#### 16.1 检查、检测网络
+
+- ping：向网络主机发送特殊数据包
+  - 示例：`ping baidu.com`
+- traceroute：跟踪网络数据包的传输路径
+  - 示例：`traceroute baidu.com`
+- netstat：查看网络设置和相关数据
+  - 示例：`netstat -r`
+
+#### 16.2 通过网络传输文件
+
+- ftp：采用 FTP（文本传输协议）传输文件
+- lftp：更好的 ftp
+- wget：用于文件下载的命令行程序，可以从网站上下载文件
+  - 示例：`wget http://www.baidu.com`
+
+#### 16.3 与远程主机的安全通信
+
+- ssh：安全登录远程计算机
+  - 示例：`ssh -T git@github.com`
+  - 延伸阅读：https://help.github.com/en/articles/testing-your-ssh-connection
+- scp：使用 SSH 加密隧道进行网络文件复制传输
+  - 示例：`scp /Applications/Reveal.app/Contents/SharedSupport/iOS-Libraries/libReveal.dylib root@192.168.0.X:/Library/MobileSubstrate/DynamicLibraries`
+  - 延伸阅读：https://www.jianshu.com/p/3d163e52c6e9
+- sftp：ftp 程序的安全版本
 
 #### 第 17 章 文件搜索
 
 
+- locate：
+  - 示例：`locate bin/zip`
+  - 延伸阅读：https://www.cnblogs.com/devilyouwei/p/6336863.html
+- find：在文件系统目录框架中查找文件
+  - test 选项
+  - action 选项
+  - option 选项
+- 其他命令
+  - touch：更改文件的修改时间和打开时间，如果该文件不存在就新建一个
+  - stat：显示文件或文件系统的状态
+
+
 #### 第 18 章 归档和备份
+
+- 文件压缩
+  - gzip：压缩和解压缩
+  - bzip2：牺牲速度以换取高质量的数据压缩
+- 文件归档
+  - tar：磁带归档工具
+  - zip：打包和压缩文件
+- 文件同步
+  - rsync：远程文件和目录的同步
 
 
 #### 第 19 章 正则表达式
 
+- grep 程序
+- 正则表达式的介绍和语法规则
 
 #### 第 20 章 文本处理
 
+- 基本操作
+  - `cat`
+  - `sort`
+  - `uniq`
+- 切片和切块
+  - `cut`
+  - `paste`
+  - `join`
+- 文本比较
+  - `comm`
+  - `diff`：逐行比较文件
+  - `patch`：对原文件进行 diff 操作
+- 非交互式文本编辑
+  - `tr`
+  - `sed`：用于文本过滤和转换的流编辑器
+  - `aspell`
+
+
 
 #### 第 21 章 格式化输出
+
+- 简单的格式化工具
+  - `nl`：对行进行标号
+    - 示例：`ls | nl`
+  - `fold`
+  - `fmt`
+  - `pr`
+  - `printf`：起初是为 C 语言开发的
+- 文档格式化系统
+  - roff 和 TEX 家族
+  - groff——文档格式化系统
 
 
 #### 第 22 章 打印
@@ -513,3 +616,5 @@
 #### 第 23 章 编译程序
 
 ## 第四部分 编写 shell 脚本
+
+### 第 4 章 编写第一个 shell 脚本
