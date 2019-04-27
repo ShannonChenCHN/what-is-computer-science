@@ -613,8 +613,12 @@
 
 #### 第 22 章 打印
 
+都是跟打印相关的，可以不用看。
+
 #### 第 23 章 编译程序
+
+讲编译的，跟 shell 关系不大，对编译链接有所了解的话，可以不看。
 
 ## 第四部分 编写 shell 脚本
 
-### 第 4 章 编写第一个 shell 脚本
+见 [Shell 脚本学习总结](https://github.com/ShannonChenCHN/iOSDevLevelingUp/tree/master/iOSTutorials/BashExample)。
