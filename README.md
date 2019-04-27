@@ -4,13 +4,13 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 ## 目录
 - 计算机科学概论
   - [x] [读《计算机科学概论》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E6%A6%82%E8%AE%BA%E3%80%8B.md)（必读，了解计算机科学的全貌，适合初学者）⭐️⭐️⭐️⭐️⭐️
-  - [读《深入理解计算机系统》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E3%80%8B_01.md)（必读，从程序员的角度理解程序是怎么运行的，有配套的课程视频，有一定的深度，适合进阶的初学者）⭐️⭐️⭐️⭐️⭐️
+  - [x] [读《深入理解计算机系统》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E3%80%8B_01.md)（必读，从程序员的角度理解程序是怎么运行的，有配套的课程视频，有一定的深度，适合进阶的初学者）⭐️⭐️⭐️⭐️⭐️
 - 数字电路
   - 视频教程
 - **计算机组成原理和计算机体系结构**
   - 《计算机是怎样跑起来的》（适合初学者）
   - 《穿越计算机的迷雾》（适合初学者）
-  - [读《编码：隐匿在计算机软硬件背后的语言》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80%E3%80%8B.md)（必读，用通俗易懂的方式一步一步告诉你计算机是怎么做出来的，适合初学者）⭐️⭐️⭐️⭐️⭐️
+  - [x] [读《编码：隐匿在计算机软硬件背后的语言》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/%E8%AF%BB%E3%80%8A%E7%BC%96%E7%A0%81%EF%BC%9A%E9%9A%90%E5%8C%BF%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E7%A1%AC%E4%BB%B6%E8%83%8C%E5%90%8E%E7%9A%84%E8%AF%AD%E8%A8%80%E3%80%8B.md)（必读，用通俗易懂的方式一步一步告诉你计算机是怎么做出来的，适合初学者）⭐️⭐️⭐️⭐️⭐️
   - 下面这几本书都具备一定的专业性，而且与其他领域相关联，建议先阅读 CS:APP
     - 《计算机组成与设计：硬件/软件接口》（做应用开发的看这本就够了）
     - 《计算机体系结构：量化研究方法》
@@ -18,27 +18,27 @@ As a self-taught programmer, what inside the black box is always mysterious to m
 - 汇编语言
   - 《汇编语言》（王爽著）
 - **操作系统**
-  - [读《The Linux Command Line》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/The-Linux-Command-Line.md)
+  - [x] [读《The Linux Command Line》](https://github.com/ShannonChenCHN/what-is-computer-science/blob/master/posts/The-Linux-Command-Line.md)
   - 《Unix & Linux大学教程》
-  - 《现代操作系统》⭐️⭐️⭐️⭐️⭐️
+  - [x] 《现代操作系统》⭐️⭐️⭐️⭐️⭐️
   - 《UNIX 环境高级编程》
 - 编译、链接（自己动手写一个编译器/解释器）
   - 《编译原理》（龙书）
   - 《现代编译原理——C 语言实现》（虎书，以例子贯穿前后端）
   - 《高级编译器设计与实现》（鲸书，主要讲后端的，轮子哥推荐）
-  - 《编译器设计》（基本概念讲的比较清楚，比龙书容易理解，适合初学者）
+  - [ ] 《编译器设计》（基本概念讲的比较清楚，比龙书容易理解，适合初学者）
   - 《Parsing Techniques》（轮子哥推荐，主要讲前端）
-  - 《程序员的自我修养 : 链接、装载与库》⭐️⭐️⭐️⭐️⭐️
+  - [x] 《程序员的自我修养 : 链接、装载与库》⭐️⭐️⭐️⭐️⭐️
 - 离散数学
   - 《离散数学及其应用》
 - **[数据结构和算法](https://github.com/ShannonChenCHN/algorithm-and-data-structure)**
-  - 《数据结构与算法分析》（基础）⭐️⭐️⭐️⭐️⭐️
-  - 《算法》（基础）
+  - [x] 《数据结构与算法分析》（基础）⭐️⭐️⭐️⭐️⭐️
+  - [ ] 《算法》（基础）
   - 《算法导论》（理论）
   - 《编程珠玑》（思维）
 - **计算机网络**
-  - 《图解 HTTP》
-  - 《图解 TCP/IP》⭐️⭐️⭐️⭐️⭐️
+  - [x] 《图解 HTTP》
+  - [x] 《图解 TCP/IP》⭐️⭐️⭐️⭐️⭐️
   - 《网络是怎样连接的》
   - 《计算机网络：自顶向下方法》⭐️⭐️⭐️⭐️⭐️
   - 《TCP/IP 详解》
@@ -52,7 +52,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
     - 《七周七语言：理解多种编程范型》
     - [斯坦福大学公开课：编程范式](http://open.163.com/special/opencourse/paradigms.html)
   - 编码修养
-    - 《代码大全》（必读）⭐️⭐️⭐️⭐️⭐️
+    - [ ] 《代码大全》（必读）⭐️⭐️⭐️⭐️⭐️
     - 《重构：改善既有代码的设计》
     - 《修改代码的艺术》
     - 《代码整洁之道》
@@ -68,7 +68,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
     - 《C 程序设计语言》
     - 《C 语言程序设计现代方法》
   - C++
-    - 《C++ Primer》
+    - [ ] 《C++ Primer》
     - 《C++ 编程思想》
   - [Objective-C](https://github.com/ShannonChenCHN/iOSLevelingUp/issues/39)
   - Java
