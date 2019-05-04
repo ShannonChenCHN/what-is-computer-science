@@ -68,6 +68,7 @@ As a self-taught programmer, what inside the black box is always mysterious to m
     - 《C 程序设计语言》
     - 《C 语言程序设计现代方法》
   - C++
+    - [ ] 《Accelerated C++》
     - [ ] 《C++ Primer》
     - 《C++ 编程思想》
   - [Objective-C](https://github.com/ShannonChenCHN/iOSLevelingUp/issues/39)
